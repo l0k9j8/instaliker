@@ -1,2 +1,2 @@
 # instaliker
-Python script for autolike instagram photo
+Python & Go scripts for autolike instagram photo
